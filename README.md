@@ -33,9 +33,6 @@
  
 # 🚀 Actions
  
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=yqcs&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
