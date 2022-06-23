@@ -42,8 +42,8 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yqcs&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqcs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="137px" width="350px" src="https://github-readme-stats.vercel.app/api?username=yqcs&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
+  <img height="137px" width="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqcs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 <br>
 
