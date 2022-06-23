@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" width="200" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
+<div align="center" ><img order-radius="100px" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 <br>
 	 
  
@@ -61,5 +61,3 @@
     </td>
   </tr>
 </table>
- 
- 
