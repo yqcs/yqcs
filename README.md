@@ -36,12 +36,3 @@
 </td>
 </tr>
 </table>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=yqcs&theme=xcode&bg_color=FF000000&hide_border=true&hide_title=true"/>
-    </td>
-  </tr>
-</table>
