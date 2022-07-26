@@ -1,11 +1,4 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=rm%20-rf%20/*;业余红蓝对抗&center=true&size=27">
-  </a>
-</h1>
 
- 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/yqcs/ZheTian">
