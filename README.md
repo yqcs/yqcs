@@ -3,8 +3,8 @@
 <div align="center">
 <a href="https://github.com/yqcs/ZheTian">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yqcs&repo=ZheTian&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/yqcs/heartsk_community">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yqcs&repo=heartsk_community&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/yqcs/prismx">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yqcs&repo=prismx&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
  
 # 🚀 Actions
